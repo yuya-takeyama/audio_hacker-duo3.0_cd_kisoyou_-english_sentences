@@ -1,0 +1,8 @@
+pattern: "*.m4a"
+input_dir:
+  - "/path/to/Yoichi Suzuki/DUO 3.0_Kiso [Disc 1]"
+  - "/path/to/Yoichi Suzuki/DUO 3.0_Kiso [Disc 2]"
+  - "/path/to/Yoichi Suzuki/DUO 3.0_Kiso [Disc 3]"
+  - "/path/to/Yoichi Suzuki/DUO 3.0_Kiso [Disc 4]"
+  - "/path/to/Yoichi Suzuki/Duo 3.0_Kiso [Disc 5]"
+output_dir: "./out"
